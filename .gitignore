@@ -14,7 +14,7 @@ nbproject/
 npm-debug.log
 
 # RESOURCES
-dist/
+#dist/ commented in branch dist
 node_modules/
 typings/
 *.spec.js
